@@ -1,0 +1,15 @@
+# -*- coding: utf-8; mode: org -*-
+
+* Research Activities
+- 含各类活动大约投入时间
+
+* Project Activities
+- 含各类活动大约投入时间
+  
+* Teams and Services
+- 含各类活动大约投入时间
+
+* Lessons Learned
+
+
+* Problems Encountered
