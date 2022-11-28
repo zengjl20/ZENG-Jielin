@@ -4,14 +4,13 @@
 - [[file:resume-ZENG-Jielin.org]]
 
 * Weekly Reports
-- 2022-11-28 -- 2022-12-04  [[file:./reports-weekly/20221001.org]]
+- 2022-11-28 -- 2022-12-04  [[file:./reports-weekly/20221128.org]]
 
 * Specific Research Progress
 - Two stage active learning algorithem
   
 * Future Research Ideas
-- quantum computing
-- biology
+- multimodal
 
 * Semester Planning and Reports
 
