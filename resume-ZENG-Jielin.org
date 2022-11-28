@@ -2,7 +2,7 @@
 
 # 曾杰林 简历
 * 照片
-[[file:photo-ZHANG-Ji.jpg]]
+[[file:others/zeng.jpg]]
 * 导师信息
 - 学籍导师：杨青
 - 具体指导导师：
